@@ -10,4 +10,16 @@
 
 1)Open a terminal in VScode and type in this command (replace the username with your course-specific account): $ ssh cs15lwi23zz@ieng6.ucsd.edu
 2)You may get a message saying the authenticity of the host cant be established, and it will ask you if you are sure you want to continue connecting. Answer yes to this question and then give your password
-3)
+3) Your terminal should now be connected to one of the CSE basement computers and you should have a screen like this:
+![Image](Remote Connect.png)
+
+**Trying Some Commands**
+
+1)Now that you have established the remote connection, try using some commands. 
+2) Some specific commands to try are:
+- cd
+- cd ~
+- ls -lat
+- ls -a
+- ls <directory>
+3)Running these commands in the terminal should look something like this:
