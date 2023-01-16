@@ -16,10 +16,13 @@
 **Trying Some Commands**
 
 1)Now that you have established the remote connection, try using some commands. 
-2) Some specific commands to try are:
+2)Running these commands in the terminal should look something like this:
+![Image](Terminal Commands.png)
+3) Some specific commands to try are:
 - cd
 - cd ~
 - ls -lat
 - ls -a
 - ls <directory>
-3)Running these commands in the terminal should look something like this:
+  
+  
