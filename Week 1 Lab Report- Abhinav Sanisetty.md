@@ -5,3 +5,9 @@
 3) Once it is installed you will be able to open a window that looks similar to this:
 ![Image](VSCode ScreenShot.png)
 4)Your window may look a little different based on your Operating System and settings.
+
+**Remotely Connecting**
+
+1)Open a terminal in VScode and type in this command (replace the username with your course-specific account): $ ssh cs15lwi23zz@ieng6.ucsd.edu
+2)You may get a message saying the authenticity of the host cant be established, and it will ask you if you are sure you want to continue connecting. Answer yes to this question and then give your password
+3)
